@@ -1,2 +1,3 @@
 Adding Quit Game Functionality here
 Added more code so that Quit cleanly exits the game.
+Add more code to prompt for user to confirm quitting.
